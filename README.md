@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="Project Banner" src="https://github.com/user-attachments/assets/b77b65eb-cd25-4da3-8dcd-e495cc8842fd" />
 
 # Customer Retention Strategy — End-to-End Machine Learning Project
 
@@ -142,4 +141,3 @@ Telecom-Churn-ML-Project/
 - **Jupyter Notebook** — Development environment
 
 ---
-<img width="1536" height="1024" alt="Output Visualization" src="https://github.com/user-attachments/assets/ad8202be-d4e9-4b55-9164-a3c82208e278" />
